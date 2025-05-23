@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+h1{
+    background-color: aliceblue;
+    font: 1em sans-serif;
+    font-size: larger;
+}
+h2{
+    font-size: medium;
+    height: 52px;
+    width: 12px;
+}
+
+
+h3{
+    font-size: medium;
+    height: 52px;
+    width: 12px;
+}
+h4{
+    font-size: medium;
+    height: 52px;
+    width: 12px;
+}
